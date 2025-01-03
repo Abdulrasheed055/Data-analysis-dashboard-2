@@ -48,9 +48,8 @@ Here’s a breakdown of the steps I followed to complete this project:
 
   ## dashoard design
   ![dashboard](https://github.com/Abdulrasheed055/Data-analysis-dashboard-2/blob/main/Screenshot%20(29).png)
-
-  ##insight
- Data Analysis (Measures & Pivot Tables):
+## insight
+ - Data Analysis (Measures & Pivot Tables):
 - Used DAX (Data Analysis Expressions) and pivot tables to calculate KPIs such as:
 - Total Revenue: £3.5M
 - Average Order & Delivery Time: 5.53 hours
