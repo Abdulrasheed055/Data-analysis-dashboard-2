@@ -1,7 +1,7 @@
 # Data Analysis Project: Sale Analysis Dashboard
 ## project objective
 To analyze sales data, uncover actionable insights, and create an interactive dashboard that highlights key performance metrics, customer behaviors, and sales trends. The goal is to enable stakeholders to make informed, data-driven decisions to optimize sales strategies, enhance customer experience, and drive business growth.
-## Queston kpi
+## Question kpi
 Total Revenue: Identify the overall revenue.
 - Average Order and Delivery Time: Evaluate the time taken for orders to be delivered.
 - Monthly Sales Performance: Examine how sales fluctuate across the months of 2023.
@@ -52,3 +52,5 @@ Here’s a breakdown of the steps I followed to complete this project:
 - Peak revenue months align with festive seasons.
 - Top-performing products: Cakes and Mugs.
 - Cities like Bangalore and Delhi lead in orders.
+
+  ![dashboard](https://github.com/Abdulrasheed055/Data-analysis-dashboard-2/blob/main/Screenshot%20(29).png)
