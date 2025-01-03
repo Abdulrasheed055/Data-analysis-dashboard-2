@@ -18,9 +18,8 @@ different occasions.
 - Product Popularity by Occasion: Identify which products are most popular during
 specific occasions.
 
-dashboard interaction <a href="https://github.com/Abdulrasheed055/Data-analysis-dashboard-2/blob/main/Screenshot%20(29).png">view dashboard</a>
+Dashboard interaction <a href="https://github.com/Abdulrasheed055/Data-analysis-dashboard-2/blob/main/Screenshot%20(29).png">view dashboard</a>
 
-## process
 # Project workflow:
 Here’s a breakdown of the steps I followed to complete this project:
 -  Extract Data:
@@ -48,7 +47,8 @@ Here’s a breakdown of the steps I followed to complete this project:
 
   ## Dashoard design
   ![dashboard](https://github.com/Abdulrasheed055/Data-analysis-dashboard-2/blob/main/Screenshot%20(29).png)
-## insight
+
+## Insight
  - Data Analysis (Measures & Pivot Tables):
 - Used DAX (Data Analysis Expressions) and pivot tables to calculate KPIs such as:
 - Total Revenue: £3.5M
