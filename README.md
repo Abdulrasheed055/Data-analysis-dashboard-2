@@ -55,7 +55,7 @@ Here’s a breakdown of the steps I followed to complete this project:
 - Average Order & Delivery Time: 5.53 hours
 - Average Customer Spending: £3,520.98
 
-## Insights & Recommendations:-Insights:
+## Recommendations:
 - Peak revenue months align with festive seasons.
 - Top-performing products: Cakes and Mugs.
 - Cities like Bangalore and Delhi lead in orders.
