@@ -46,7 +46,7 @@ Here’s a breakdown of the steps I followed to complete this project:
 
 
 
-  ## dashoard design
+  ## Dashoard design
   ![dashboard](https://github.com/Abdulrasheed055/Data-analysis-dashboard-2/blob/main/Screenshot%20(29).png)
 ## insight
  - Data Analysis (Measures & Pivot Tables):
