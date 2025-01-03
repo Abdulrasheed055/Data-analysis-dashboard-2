@@ -35,11 +35,7 @@ Here’s a breakdown of the steps I followed to complete this project:
 - Data Modeling (Pivot Tables):
  -Structured and connected datasets for seamless analysis.
 
- Data Analysis (Measures & Pivot Tables):
-- Used DAX (Data Analysis Expressions) and pivot tables to calculate KPIs such as:
-- Total Revenue: £3.5M
-- Average Order & Delivery Time: 5.53 hours
-- Average Customer Spending: £3,520.98
+
 
  Dashboard Creation (Charts):
 -Designed a user-friendly and interactive Sales Analysis Dashboard to visualize key metrics,
@@ -47,10 +43,21 @@ Here’s a breakdown of the steps I followed to complete this project:
 - Visuals included revenue by category, product popularity by occasion, sales trends by
 - month/hour, and top-performing cities.
 
- Insights & Recommendations:
--Insights:
+
+
+
+  ## dashoard design
+  ![dashboard](https://github.com/Abdulrasheed055/Data-analysis-dashboard-2/blob/main/Screenshot%20(29).png)
+
+  ##insight
+ Data Analysis (Measures & Pivot Tables):
+- Used DAX (Data Analysis Expressions) and pivot tables to calculate KPIs such as:
+- Total Revenue: £3.5M
+- Average Order & Delivery Time: 5.53 hours
+- Average Customer Spending: £3,520.98
+
+## Insights & Recommendations:-Insights:
 - Peak revenue months align with festive seasons.
 - Top-performing products: Cakes and Mugs.
 - Cities like Bangalore and Delhi lead in orders.
 
-  ![dashboard](https://github.com/Abdulrasheed055/Data-analysis-dashboard-2/blob/main/Screenshot%20(29).png)
