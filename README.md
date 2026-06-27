@@ -282,8 +282,6 @@ Based on the analysis:
 
 - 💼 Data Analyst | Business Intelligence | AI & Digital Innovation
 - 📧 aminuabdulrasheed055@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin
-- 🌐 Portfolio: https://aminuabdulrasheedproject.netlify.app
 - 📺 YouTube: https://www.youtube.com/@AminuAnalyst
 
 ---
