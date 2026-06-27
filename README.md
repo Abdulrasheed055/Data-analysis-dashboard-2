@@ -1,7 +1,7 @@
 # Data Analysis Project: Sale Analysis Dashboard
-## project objective
+## Project objective
 To analyze sales data, uncover actionable insights, and create an interactive dashboard that highlights key performance metrics, customer behaviors, and sales trends. The goal is to enable stakeholders to make informed, data-driven decisions to optimize sales strategies, enhance customer experience, and drive business growth.
-## Question kpi
+## Question KPI
 Total Revenue: Identify the overall revenue.
 - Average Order and Delivery Time: Evaluate the time taken for orders to be delivered.
 - Monthly Sales Performance: Examine how sales fluctuate across the months of 2023.
@@ -20,11 +20,11 @@ specific occasions.
 
 Dashboard interaction <a href="https://github.com/Abdulrasheed055/Data-analysis-dashboard-2/blob/main/Screenshot%20(29).png">view dashboard</a>
 
-# Project workflow:
+## Project workflow:
 Here’s a breakdown of the steps I followed to complete this project:
 -  Extract Data:
 - Gathered raw sales data from multiple sources
--  Define Problem:
+- Define Problem:
 
  Goal: Analyze sales performance to identify trends, customer behaviour, and top-
  - performing products and regions.
@@ -35,14 +35,11 @@ Here’s a breakdown of the steps I followed to complete this project:
  -Structured and connected datasets for seamless analysis.
 
 
-
  Dashboard Creation (Charts):
 -Designed a user-friendly and interactive Sales Analysis Dashboard to visualize key metrics,
 - trends, and patterns.
 - Visuals included revenue by category, product popularity by occasion, sales trends by
 - month/hour, and top-performing cities.
-
-
 
 
   ## Dashoard design
@@ -59,4 +56,3 @@ Here’s a breakdown of the steps I followed to complete this project:
 - Peak revenue months align with festive seasons.
 - Top-performing products: Cakes and Mugs.
 - Cities like Bangalore and Delhi lead in orders.
-
