@@ -276,7 +276,7 @@ Based on the analysis:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Aminu Abdulrasheed**
 
